@@ -23,9 +23,13 @@ Submission Date: July 3, 2024
 <img width="1723" height="182" alt="image5" src="https://github.com/user-attachments/assets/1e7802f0-3317-4130-902a-5984137430be" />
 </p>
 
-![image11](https://github.com/user-attachments/assets/ff549c9e-b883-407e-9e56-572e1784762f)
+<p align="center">
+  <img alt="image11" src="https://github.com/user-attachments/assets/ff549c9e-b883-407e-9e56-572e1784762f" />
+</p>
 
-![image13](https://github.com/user-attachments/assets/c6b03986-c32e-4519-810a-ee03b70a1f60)
+<p align="center">
+  <img alt="image13" src="https://github.com/user-attachments/assets/c6b03986-c32e-4519-810a-ee03b70a1f60" />
+</p>
 
 
 
